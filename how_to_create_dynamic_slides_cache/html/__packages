@@ -1,0 +1,13 @@
+base
+dplyr
+data.table
+sp
+rgdal
+leaflet
+Matrix
+spData
+spdep
+RColorBrewer
+ggplot2
+plotly
+bindrcpp
